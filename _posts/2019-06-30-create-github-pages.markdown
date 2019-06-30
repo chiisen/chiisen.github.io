@@ -8,7 +8,7 @@ categories: jekyll update
 
 專案名稱一定要命名為「[GitHub帳號].github.io」的格式  
 
-![Alt text](/image/github.io/html00.png)
+![Alt text](image/github.io/html00.png)
 
 [GitHub帳號] 如果是 Apple  
 
@@ -16,10 +16,10 @@ categories: jekyll update
 
 在專案裡新增一個 index.html 內容可以打  
 
-![Alt text](/image/github.io/html01.png)
+![Alt text](image/github.io/html01.png)
 
 上傳後，在瀏覽器打上網址：[GitHub帳號].github.io  
 承上例 https://apple.github.io/  
 就能連上網頁  
 
-![Alt text](/image/github.io/html02.png)
+![Alt text](image/github.io/html02.png)
