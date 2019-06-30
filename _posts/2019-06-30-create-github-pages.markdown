@@ -8,7 +8,7 @@ categories: jekyll update
 
 專案名稱一定要命名為「[GitHub帳號].github.io」的格式  
 
-![Alt text](/image/github.io/html00.png)
+![Alt text](/image/github.io/html00.PNG)
 
 [GitHub帳號] 如果是 Apple  
 
