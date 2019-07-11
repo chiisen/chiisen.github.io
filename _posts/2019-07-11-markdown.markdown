@@ -1,0 +1,107 @@
+---
+layout: post
+title:  "Markdown"
+date:   2019-07-11 14:20:00 +0800
+categories: jekyll update
+---
+
+『字體』
+
+
+**粗體**   
+```no-highlight
+Markdown 語法：
+
+**粗體**
+```
+
+# 標題字 
+```no-highlight 
+Markdown 語法：
+
+# 標題字
+```
+
+## 次標題 
+```no-highlight 
+Markdown 語法：
+
+## 次標題
+```
+
+###### 小標題  
+```no-highlight
+Markdown 語法：
+
+###### 小標題
+```
+
+『列表』  
+
+* Item 1  
+* Item 2  
+  * Item 1a  
+  * Item 1b  
+  * Item 2a  
+  * Item 2b 
+```no-highlight
+Markdown 語法：
+
+* Item 1  
+* Item 2  
+  * Item 1a  
+  * Item 1b  
+  * Item 2a  
+  * Item 2b  
+```
+
+『區塊』
+
+在要標註的字前後加上 <code>`</code>
+
+這個是小區塊 `小區塊`
+```no-highlight
+Markdown 語法：
+
+這個是小區塊 `小區塊`
+```
+
+上面留一行
+下一行前面加上四個空格 
+
+    這個是大區塊 大區塊 
+```no-highlight
+Markdown 語法：
+
+    這個是大區塊 大區塊  
+```
+
+『程式碼』
+
+
+```C#
+public bool IsSuccess()
+{
+    if (string.IsNullOrEmpty(ErrorMessage))
+    {
+        return true;
+    }
+    return false;
+}
+```       
+<pre lang="no-highlight"><code>
+Markdown 語法：
+
+```C#
+public bool IsSuccess()
+{
+    if (string.IsNullOrEmpty(ErrorMessage))
+    {
+        return true;
+    }
+    return false;
+}
+```
+</code></pre>    
+
+
