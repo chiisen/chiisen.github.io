@@ -11,3 +11,5 @@ sudo apt-get autoclean
 sudo apt-get autoremove  
 
 sudo apt-get clean  
+
+執行就能幫你清理 Ubuntu 裡的垃圾檔案了
