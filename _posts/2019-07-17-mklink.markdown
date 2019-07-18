@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "利用 MKLINK 設定目錄連結"
+date:   2019-07-17 13:17:00 +0800
+categories: jekyll update
+---
+
+mklink 的功能簡單的說，就是建立連結指向某個目錄  
+一般實務上，通常是運用在 C 槽容量不足  
+我們把檔案搬移到 D 槽  
+並在原本的 C 槽建立目錄連結  
+連結到搬移目的地 D 槽  
+例如：mklink /J “C:\Files" “D:\Files"  
+C:\Files 是連結，而 D:\Files 是搬移的檔案實體  
+建立連結後  
+對 C:\Files 的任何操作會直接對應到 D:\Files  
+雖然實體在 D:\Files  
+但是使用上就如同檔案在 C:\Files  
+藉由此技術來提升 C 槽的容量  
+要斷除連結  
+直接刪除 C:\Files 目錄即可  
+D:\Files 內的檔案不會受影響  
+切記不要刪除 C:\Files 內的檔案  
+這樣會造成刪除 D:\Files 內的檔案  
