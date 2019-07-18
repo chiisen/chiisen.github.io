@@ -5,9 +5,11 @@ date:   2019-07-16 19:50:00 +0800
 categories: jekyll update
 ---
 
-來源網址:https://dotnet.microsoft.com/download/dotnet-core
+[來源網址](https://dotnet.microsoft.com/download/dotnet-core)
+
 
 #NET Core 2.1
+
 
 | Release information | Build apps - SDK | Run apps - Runtime |
 |:-------------------:|:----------------:|:------------------:|
@@ -38,6 +40,8 @@ categories: jekyll update
 
 
 #NET Core 2.2  
+
+
 | Release information | Build apps - SDK | Run apps - Runtime |  
 |:-------------------:|:----------------:|:------------------:|  
 | v2.2.6 | SDK 2.1.701 | Runtime 2.1.12 |  
@@ -62,6 +66,8 @@ categories: jekyll update
 
 
 #NET Core 3.0  
+
+
 | Release information | Build apps - SDK | Run apps - Runtime |    
 |:-------------------:|:----------------:|:------------------:|    
 | **v3.0.0-preview6** | **SDK 3.0.100-preview6-012264** | **Runtime 3.0.0-preview6-27804-01** |    
