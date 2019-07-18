@@ -38,35 +38,35 @@ categories: jekyll update
 
 
 #NET Core 2.2
-| Release information | Build apps - SDK | Run apps - Runtime |
-|:-------------------:|:----------------:|:------------------:|
-| v2.2.6 | SDK 2.1.701 | Runtime 2.1.12 |
-| v2.2.6 | SDK 2.2.301 | Runtime 2.2.6 |
-| v2.2.6 | SDK 2.2.205 | Runtime 2.2.6 |
-| v2.2.6 | SDK 2.2.108 | Runtime 2.2.6 |
-| v2.2.5 | SDK 2.2.300 | Runtime 2.2.5 |
-| v2.2.5 | SDK 2.2.204 | Runtime 2.2.5 |
-| **v2.2.5** | **SDK 2.2.107** | **Runtime 2.2.5** |
-| v2.2.4 | SDK 2.2.203 | Runtime 2.2.4 |
-| v2.2.4 | SDK 2.2.106 | Runtime 2.2.4 |
-| v2.2.3 | SDK 2.2.202 | Runtime 2.2.3 |
-| v2.2.3 | SDK 2.2.105 | Runtime 2.2.3 |
-| v2.2.2 | SDK 2.2.105 | Runtime 2.2.2 |
-| v2.2.1 | SDK 2.2.103 | Runtime 2.2.1 |
-| v2.2.1 | SDK 2.2.102 | Runtime 2.2.1 |
-| v2.2.0 | SDK 2.2.101 | Runtime 2.2.0 |
-| v2.2.0 | SDK 2.2.100 | Runtime 2.2.0 |
-| v2.2.0-preview3 | SDK 2.2.100-preview3-009430 | Runtime 2.2.0-preview3-27014-02|
-| v2.2.0-preview2 | SDK 2.2.100-preview2-009404 | Runtime 2.2.0-preview2-26905-02|
-| v2.2.0-preview1 | SDK 2.2.100-preview1-009349 | Runtime 2.2.0-preview1-26820-02|
+| Release information | Build apps - SDK | Run apps - Runtime |  
+|:-------------------:|:----------------:|:------------------:|  
+| v2.2.6 | SDK 2.1.701 | Runtime 2.1.12 |  
+| v2.2.6 | SDK 2.2.301 | Runtime 2.2.6 |  
+| v2.2.6 | SDK 2.2.205 | Runtime 2.2.6 |  
+| v2.2.6 | SDK 2.2.108 | Runtime 2.2.6 |  
+| v2.2.5 | SDK 2.2.300 | Runtime 2.2.5 |  
+| v2.2.5 | SDK 2.2.204 | Runtime 2.2.5 |  
+| **v2.2.5** | **SDK 2.2.107** | **Runtime 2.2.5** |  
+| v2.2.4 | SDK 2.2.203 | Runtime 2.2.4 |  
+| v2.2.4 | SDK 2.2.106 | Runtime 2.2.4 |  
+| v2.2.3 | SDK 2.2.202 | Runtime 2.2.3 |  
+| v2.2.3 | SDK 2.2.105 | Runtime 2.2.3 |  
+| v2.2.2 | SDK 2.2.105 | Runtime 2.2.2 |  
+| v2.2.1 | SDK 2.2.103 | Runtime 2.2.1 |  
+| v2.2.1 | SDK 2.2.102 | Runtime 2.2.1 |  
+| v2.2.0 | SDK 2.2.101 | Runtime 2.2.0 |  
+| v2.2.0 | SDK 2.2.100 | Runtime 2.2.0 |  
+| v2.2.0-preview3 | SDK 2.2.100-preview3-009430 | Runtime 2.2.0-preview3-27014-02|  
+| v2.2.0-preview2 | SDK 2.2.100-preview2-009404 | Runtime 2.2.0-preview2-26905-02|  
+| v2.2.0-preview1 | SDK 2.2.100-preview1-009349 | Runtime 2.2.0-preview1-26820-02|  
 
 
 #NET Core 3.0
-| Release information | Build apps - SDK | Run apps - Runtime |
-|:-------------------:|:----------------:|:------------------:|
-| **v3.0.0-preview6** | **SDK 3.0.100-preview6-012264** | **Runtime 3.0.0-preview6-27804-01** |
-| v3.0.0-preview5 | SDK 3.0.100-preview5-011568 | Runtime 3.0.0-preview5-27626-15 |
-| v3.0.0-preview4 | SDK 3.0.100-preview4-011223 | Runtime 3.0.0-preview4-27615-11 |
-| v3.0.0-preview3 | SDK 3.0.100-preview3-010431 | Runtime 3.0.0-preview3-27503-5 |
-| v3.0.0-preview2 | SDK 3.0.100-preview2-010184 | Runtime 3.0.0-preview2-27324-5 |
-| v3.0.0-preview1-27122-01 | SDK 3.0.100-preview-009812 | Runtime 3.0.0-preview-27122-01 |
+| Release information | Build apps - SDK | Run apps - Runtime |    
+|:-------------------:|:----------------:|:------------------:|    
+| **v3.0.0-preview6** | **SDK 3.0.100-preview6-012264** | **Runtime 3.0.0-preview6-27804-01** |    
+| v3.0.0-preview5 | SDK 3.0.100-preview5-011568 | Runtime 3.0.0-preview5-27626-15 |  
+| v3.0.0-preview4 | SDK 3.0.100-preview4-011223 | Runtime 3.0.0-preview4-27615-11 |  
+| v3.0.0-preview3 | SDK 3.0.100-preview3-010431 | Runtime 3.0.0-preview3-27503-5 |  
+| v3.0.0-preview2 | SDK 3.0.100-preview2-010184 | Runtime 3.0.0-preview2-27324-5 |  
+| v3.0.0-preview1-27122-01 | SDK 3.0.100-preview-009812 | Runtime 3.0.0-preview-27122-01 |  
