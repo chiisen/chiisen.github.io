@@ -37,7 +37,7 @@ categories: jekyll update
 | v2.1.0-preview1 | SDK 2.1.300-preview1-008174 | Runtime 2.1.0-preview1-26216-03 |
 
 
-#NET Core 2.2
+#NET Core 2.2  
 | Release information | Build apps - SDK | Run apps - Runtime |  
 |:-------------------:|:----------------:|:------------------:|  
 | v2.2.6 | SDK 2.1.701 | Runtime 2.1.12 |  
@@ -61,7 +61,7 @@ categories: jekyll update
 | v2.2.0-preview1 | SDK 2.2.100-preview1-009349 | Runtime 2.2.0-preview1-26820-02|  
 
 
-#NET Core 3.0
+#NET Core 3.0  
 | Release information | Build apps - SDK | Run apps - Runtime |    
 |:-------------------:|:----------------:|:------------------:|    
 | **v3.0.0-preview6** | **SDK 3.0.100-preview6-012264** | **Runtime 3.0.0-preview6-27804-01** |    
