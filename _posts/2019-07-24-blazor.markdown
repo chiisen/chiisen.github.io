@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "安裝 .NET COre 3.0 Preview 6 的 Blazor 專案"
+date:   2019-07-24 11:47:00 +0800
+categories: jekyll update
+---
+
+先安裝 .NET Core 3.0 Preview 6  
+[來源網址](https://dotnet.microsoft.com/download/dotnet-core/3.0)  
+
+再安裝 Visual Studio 2019 Preview  
+[來源網址](https://visualstudio.microsoft.com/zh-hant/vs/preview/?rr=https%3A%2F%2Fwww.cnblogs.com%2F)  
+
+最後安裝 Blazor 延伸模組  
+  
+[來源網址](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor)  
+
+就可以在開新專案時選擇 Blazor 類型的專案了  
+
+![Alt text](/image/github.io/Blazor00.PNG) 
+ 
+![Alt text](/image/github.io/Blazor01.PNG)  
+
+![Alt text](/image/github.io/Blazor02.PNG)  
+
+![Alt text](/image/github.io/Blazor03.PNG)  
