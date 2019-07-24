@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "安裝 .NET COre 3.0 Preview 6 的 Blazor 專案"
+title:  "安裝 .NET COre 3.0 Preview 7 的 Blazor 專案"
 date:   2019-07-24 11:47:00 +0800
 categories: jekyll update
 ---
 
-先安裝 .NET Core 3.0 Preview 6  
+先安裝 .NET Core 3.0 Preview 7  
 [來源網址](https://dotnet.microsoft.com/download/dotnet-core/3.0)  
 
 再安裝 Visual Studio 2019 Preview  
