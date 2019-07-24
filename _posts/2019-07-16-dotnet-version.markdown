@@ -69,7 +69,8 @@ categories: jekyll update
 
 
 | Release information | Build apps - SDK | Run apps - Runtime |    
-|:-------------------:|:----------------:|:------------------:|    
+|:-------------------:|:----------------:|:------------------:|   
+| v3.0.0-preview7 | SDK 3.0.100-preview7-012821 | Runtime 3.0.0-preview7-27912-14 |  
 | **v3.0.0-preview6** | **SDK 3.0.100-preview6-012264** | **Runtime 3.0.0-preview6-27804-01** |    
 | v3.0.0-preview5 | SDK 3.0.100-preview5-011568 | Runtime 3.0.0-preview5-27626-15 |  
 | v3.0.0-preview4 | SDK 3.0.100-preview4-011223 | Runtime 3.0.0-preview4-27615-11 |  
