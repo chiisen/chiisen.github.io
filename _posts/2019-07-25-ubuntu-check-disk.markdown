@@ -44,10 +44,15 @@ sudo apt install curl
 方法如下：  
 
 ![Alt text](/image/github.io/team00.png)
+
 點擊「連接器」  
+
 ![Alt text](/image/github.io/team01.png)
+
 點擊「已設定」與「管理」（如果沒安裝「傳入 Webhook」請安裝）  
+
 ![Alt text](/image/github.io/team02.png)
+
 按下「複製」鈕就能取得網址  
 
 如果想每天定時監控與通知  
