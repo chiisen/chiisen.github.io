@@ -57,7 +57,7 @@ sudo apt install curl
 
 如果想每天定時監控與通知  
 可以利用 crontab 定時通知  
-記得給 check-disk.sh 管理權限  
+記得給 check-disk.sh 管理權限(有權限 ls 看到會是綠色的)  
 
 ```bash
 chmod +x check-disk.sh
