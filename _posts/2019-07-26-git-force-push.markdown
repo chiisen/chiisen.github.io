@@ -11,7 +11,7 @@ categories: jekyll update
 git push origin HEAD:master --force
 
 ```
- ! [remote rejected] HEAD -> master (TF401027: You need the Git 'ForcePush' permission to perform this action. Details: identity 'Windows Live ID\sam.liaw@creativearktech.com', scope 'branch'.)
+ ! [remote rejected] HEAD -> master (TF401027: You need the Git 'ForcePush' permission to perform this action. Details: identity 'Windows Live ID\user@mail.com', scope 'branch'.)
 error: failed to push some refs to 'https://xxxx@dev.azure.com/xxxx/xxxx/_git/project.xxxx'
 
 ```  
