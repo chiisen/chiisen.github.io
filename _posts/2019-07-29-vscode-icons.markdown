@@ -14,7 +14,7 @@ categories: jekyll update
 新的 icon
 你還能安裝新的佈景主題
 ![Alt text](/image/github.io/vscode-icons02.png)
-
+點擊左下齒輪，可以設定「彩色佈景主題」
 ![Alt text](/image/github.io/vscode-icons03.png)
-
+還能安裝其他的彩色佈景主題
 ![Alt text](/image/github.io/vscode-icons04.PNG)
