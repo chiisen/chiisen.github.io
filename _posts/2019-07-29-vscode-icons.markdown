@@ -17,4 +17,4 @@ categories: jekyll update
 
 ![Alt text](/image/github.io/vscode-icons03.png)
 
-![Alt text](/image/github.io/vscode-icons04.png)
+![Alt text](/image/github.io/vscode-icons04.PNG)
