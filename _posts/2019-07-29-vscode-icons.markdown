@@ -13,6 +13,6 @@ categories: jekyll update
 ![Alt text](/image/github.io/vscode-icons01.PNG)
 新的 icon
 你還能安裝新的佈景主題
-![Alt text](/image/github.io/vscode-icons02.PNG)
+![Alt text](/image/github.io/vscode-icons02.png)
 
-![Alt text](/image/github.io/vscode-icons03.PNG)
+![Alt text](/image/github.io/vscode-icons03.png)
