@@ -36,7 +36,7 @@ RabbitMQ-server stop
 或
 http://「你的 VM 的 IP」:15672/#/
 
-![Alt text](/image/github.io/RabbitMQ00.png)
+![Alt text](/image/github.io/RabbitMQ00.PNG)
 
 預設賬號：guest      
 預設密碼：guest
@@ -44,7 +44,7 @@ http://「你的 VM 的 IP」:15672/#/
 預設 MQ 的 Port 是 5672
 不要搞混了
 
-![Alt text](/image/github.io/RabbitMQ01.png)
+![Alt text](/image/github.io/RabbitMQ01.PNG)
 
 常用指令：
 RabbitMQ-plugins enable RabbitMQ_management 開啟外掛
