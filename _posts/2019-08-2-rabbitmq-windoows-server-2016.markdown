@@ -59,5 +59,5 @@ RabbitMQ-service stop 或者 net stop RabbitMQ 停止服務
 RabbitMQctl status 檢視服務狀態  
 RabbitMQ-server restart 重啟服務  
 
-特別提一下在 Windows 10 下安裝 RabbitMQ ，如果使用者名稱是中文的，則會出現啟動失敗的情況。  
+特別提一下在 Windows 下安裝 RabbitMQ ，如果使用者名稱是中文的，則會出現啟動失敗的情況。  
 網路上有教學，需要可以去查一下（我沒測試過，所以這邊不說明）。  
