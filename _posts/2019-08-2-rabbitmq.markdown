@@ -40,6 +40,9 @@ http://「你的 VM 的 IP」:15672/#/
 
 預設賬號：guest      
 預設密碼：guest
+
+PS.為了安全性的問題，可以在 admin 新增 user 並刪除 guest 帳號，之後登入就用新帳號登入  
+
 預設 Web 的 Port 是 15672
 預設 MQ 的 Port 是 5672
 不要搞混了
