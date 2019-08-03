@@ -49,14 +49,14 @@ PS.為了安全性的問題，可以在 admin 新增 user 並刪除 guest 帳號
 
 ![Alt text](/image/github.io/RabbitMQ01.PNG)
 
-常用指令：
-RabbitMQ-plugins enable RabbitMQ_management 開啟外掛
-RabbitMQ-service remove 移除服務
-RabbitMQ-service install 安裝服務
-RabbitMQ-service start 或者 net start RabbitMQ 啟動服務
-RabbitMQ-service stop 或者 net stop RabbitMQ 停止服務
-RabbitMQctl status 檢視服務狀態
-RabbitMQ-server restart 重啟服務
+常用指令：  
+RabbitMQ-plugins enable RabbitMQ_management 開啟外掛  
+RabbitMQ-service remove 移除服務  
+RabbitMQ-service install 安裝服務  
+RabbitMQ-service start 或者 net start RabbitMQ 啟動服務  
+RabbitMQ-service stop 或者 net stop RabbitMQ 停止服務  
+RabbitMQctl status 檢視服務狀態  
+RabbitMQ-server restart 重啟服務  
 
 特別提一下在 Windows 10 下安裝 RabbitMQ ，如果使用者名稱是中文的，則會出現啟動失敗的情況。
 網路上有教學，需要可以去查一下（我沒測試過，所以這邊不說明）。
