@@ -1,9 +1,7 @@
 # chiisen.github.io  
-chiisen 的 Jekyll GitHub Pages  
+chiisen 的免費 Jekyll GitHub Pages   
 
-GitHub 的免費網站  
-
-測試網址： https://chiisen.github.io  
+網址： https://chiisen.github.io  
 
 
 Jekyll 的目錄結構
