@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sam 的經歷
-email: chiisen@hotmail.com
+email: liawchiisen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Try Jekyll 
 baseurl: "" # the subpath of your site, e.g. /blog
