@@ -20,16 +20,18 @@
 title: Sam 的經歷
 email: liawchiisen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  自小因家庭工廠轉型接觸工業電腦，自學多種程式語言。有豐富遊戲開發和專案管理經驗，涉足 VR/AR/MR 開發，也做過系統優化，期待加入貴公司。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  chiisen
 
+#sass:
+#  quiet_deps: true # 這個配置選項會讓 Jekyll 的 Sass 處理器在處理依賴項（如 minima 主題）時不顯示 @import 警告。
+  
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
 
