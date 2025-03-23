@@ -9,7 +9,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.4.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5.2"
+#gem "minima", "~> 2.5.2"
+gem "jekyll-theme-so-simple"
 
 # 使用 Sass 版本 2，而不是即將包含 Dart Sass 3.0 的版本
 gem "jekyll-sass-converter", "~> 2.0"

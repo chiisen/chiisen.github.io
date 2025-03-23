@@ -143,4 +143,19 @@ bundle exec jekyll serve
 ├── `_posts` // ！博客文章文件夾，放置創作的文章  
 └──--------- 2019-06-29-welcome-to-jekyll.markdown // 最開始的一篇文章  
 
+## Jekyll 的安裝主題
+_config.yml 檔案中將
+ theme: minima 改成 theme: jekyll-theme-so-simple  
+
+Gemfile 檔案中將 gem "minima", "~> 2.5.2" 改成 gem "jekyll-theme-so-simple"
+
+```shell
+bundle install
+
+jekyll clean
+jekyll build
+jekyll serve
+```
+可能需要 bundle install
+
 ###### tags: `hackmd`
