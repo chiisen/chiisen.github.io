@@ -69,12 +69,14 @@ Jekyll 是一個靜態網站生成器（Static Site Generator, SSG），用 Ruby
 
 如果你想建立一個輕量級、易於維護的網站，而不想使用像 WordPress 這樣的動態 CMS，Jekyll 是一個很好的選擇！ 🚀
 
-## Windows 安裝 ruby
+## Windows 安裝 Ruby
+Jekyll 是基於 Ruby 的，所以首先需要安裝 Ruby
 ```shell
 winget install -e --id RubyInstallerTeam.Ruby.3.1
 ```
+PS.目前是用下載方式安裝 Ruby 3.4
 
-## 安裝 Jekyll 和 bundler
+### 安裝 Jekyll
 ```shell
 gem install jekyll bundler
 ```
@@ -114,6 +116,19 @@ creating Makefile
         gem update --system
         gem install bundler
         ```
+
+### 檢查 Jekyll 版本確認安裝成功
+```shell
+jekyll -v
+```
+
+### 創建新 Jekyll 站點
+```shell
+jekyll new my-website
+cd my-website
+bundle exec jekyll serve
+```
+這會在本地伺服器（通常是 http://localhost:4000）啟動您的 Jekyll 網站。
 
 ## Jekyll 的目錄結構
 
