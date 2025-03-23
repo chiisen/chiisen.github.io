@@ -4,15 +4,13 @@ title: 關於 Sam
 permalink: /about/
 ---
 
-這是個 Jekyll 主題的網頁. 你可以找到 Jekyll 主題, 和一些 Jekyll 的使用文件 [jekyllrb.com](https://jekyllrb.com/)
-
-你可以在 GitHub 找到 minima 原始碼:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-你可以在 GitHub 找到原始碼:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+我自幼因家中工廠轉型接觸工業電腦，從而對程式設計產生熱愛，並自學多種程式語言。  
+求學期間，通過選修課程和自學書籍，奠定了紮實的程式基礎。  
+服役後，利用業餘時間獨立開發橫向捲軸射擊遊戲，順利進入遊戲產業，開啟專業軟體開發生涯。  
+在遊戲領域，我積累了豐富經驗，參與維護大型遊戲專案，熟悉遊戲從構想到完成的全流程；  
+同時負責多款中小型專案的前後端開發，提升了產品迭代效率和穩定性，注重將創意融入技術，取得了不錯的市場反響。
+此外，我在新興技術方面也頗有建樹，在新創公司從事 VR/AR/MR 應用開發，完成了玉山國家公園 VR 攻頂互動程式等多個專案；  
+還結合 VR 技術開發家具規劃展示應用程式，提升用戶體驗和品牌價值。  
+在系統優化和自動化方面，我為美商設計電子表單自動化流程，解決舊系統技術債，參與新會員管理系統研發。  
+我的短期目標是儘快熟悉新職位業務流程，與團隊建立良好合作；  
+中期目標是在兩年內為公司帶來顯著績效，推動專案成功，爭取升遷機會。  
