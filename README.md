@@ -131,7 +131,6 @@ bundle exec jekyll serve
 這會在本地伺服器（通常是 http://localhost:4000）啟動您的 Jekyll 網站。
 
 ## Jekyll 的目錄結構
-
 .  
 ├── `README.md` // 說明文件  
 ├── `_config.yml` // ！主配置文件，Jekyll的配置依據  
@@ -143,12 +142,7 @@ bundle exec jekyll serve
 ├── `_posts` // ！博客文章文件夾，放置創作的文章  
 └──--------- 2019-06-29-welcome-to-jekyll.markdown // 最開始的一篇文章  
 
-## Jekyll 的安裝主題
-_config.yml 檔案中將
- theme: minima 改成 theme: jekyll-theme-so-simple  
-
-Gemfile 檔案中將 gem "minima", "~> 2.5.2" 改成 gem "jekyll-theme-so-simple"
-
+## Jekyll 的發佈
 ```shell
 bundle install
 
