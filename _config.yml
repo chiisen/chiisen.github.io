@@ -30,8 +30,7 @@ github_username:  chiisen
 #  quiet_deps: true # 這個配置選項會讓 Jekyll 的 Sass 處理器在處理依賴項（如 minima 主題）時不顯示 @import 警告。
   
 # Build settings
-#theme: minima
-theme: jekyll-theme-so-simple
+theme: minima 
 
 plugins:
   - jekyll-feed
