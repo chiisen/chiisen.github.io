@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "雪霸國家公園櫻花鉤吻鮭互動導覽程式 2017/07~2018/01"
+title_image: /image/github.io/salmon.jpg
 date:   2018-01-10 00:00:00 +0800
 categories: jekyll update
 ---

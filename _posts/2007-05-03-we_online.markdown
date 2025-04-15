@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "唯舞獨尊Online 2005/12~2007/5"
+title_image: /image/github.io/we_online.jpeg
 date:   2007-05-03 00:00:00 +0800
 categories: jekyll update
 ---
