@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 
 ## 倖存者聯盟
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 ![倖存者聯盟](/image/github.io/survivor.jpg)
 這是一款以全新末日角度打造的殭屍題材即時戰略手機遊戲，期待引爆全球生存之戰。
 

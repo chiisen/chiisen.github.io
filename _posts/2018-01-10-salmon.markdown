@@ -7,6 +7,7 @@ categories: jekyll update
 
 ## 雪霸國家公園櫻花鉤吻鮭互動導覽程式
 ![雪霸國家公園櫻花鉤吻鮭互動導覽程式](/image/github.io/salmon.jpg)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 與台灣櫻花鉤吻鮭有關的互動遊戲，模擬國寶魚在溪流中的生態，遊客可藉由遊戲的互動內容，更加深入的認識國寶魚的棲地環境與生態知識。
 
 ### 2018年01月10日重新開放
