@@ -9,6 +9,15 @@ categories: jekyll update
 ![倖存者聯盟](/image/github.io/survivor.jpg)
 這是一款以全新末日角度打造的殭屍題材即時戰略手機遊戲，期待引爆全球生存之戰。
 
+### 2016年10月06日公測
+
+[🔗 巴哈姆特-倖存者聯盟 介紹網頁](https://acg.gamer.com.tw/acgDetail.php?s=85429)
+
+在這個階段，公司政策希望多元發展，嘗試以前沒接觸過的領域，進行一些新嘗試。
+因此，我們開始了這款手機專案的開發。
+由於這是我們未曾涉足的全新領域，開發過程其實非常有趣。
+我們還爭取到了機會，參加在日本舉辦的電玩展。
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3rRL80B6Y5s" frameborder="0" allowfullscreen></iframe>
@@ -18,12 +27,3 @@ categories: jekyll update
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CysCdm4eaBQ" frameborder="0" allowfullscreen></iframe>
 
 ---
-
-### 2016年10月06日公測
-
-[🔗 巴哈姆特-倖存者聯盟 介紹網頁](https://acg.gamer.com.tw/acgDetail.php?s=85429)
-
-在這個階段，公司政策希望多元發展，嘗試以前沒接觸過的領域，進行一些新嘗試。
-因此，我們開始了這款手機專案的開發。
-由於這是我們未曾涉足的全新領域，開發過程其實非常有趣。
-我們還爭取到了機會，參加在日本舉辦的電玩展。
