@@ -9,6 +9,12 @@ categories: jekyll update
 ![唯舞獨尊 DX](/image/github.io/we_dx.jpeg)
 全新打造的線上音樂節奏跳舞遊戲，遊戲保留了玩家熟悉的玩法，並收錄最多的華文歌曲。本作採用 Unity 3D 引擎打造，官方強調畫面比前作更為細緻。研發團隊在開發時訴求遊戲人物外觀和服裝較為貼近真人比例，但五官不會過於寫實而失去夢幻感。
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/39lpSh3vDR4" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ### 2014年10月09日公測
 
 [🔗 巴哈姆特-唯舞獨尊 DX 介紹網頁](https://acg.gamer.com.tw/acgDetail.php?s=71734)
