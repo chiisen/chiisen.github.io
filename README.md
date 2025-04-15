@@ -121,6 +121,7 @@ creating Makefile
 ```shell
 jekyll -v
 ```
+目前是 jekyll 4.4.1
 
 ### 創建新 Jekyll 站點
 ```shell
