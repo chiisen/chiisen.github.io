@@ -151,6 +151,54 @@ jekyll clean
 jekyll build
 jekyll serve
 ```
-可能需要 bundle install
+可能需要 bundle install  
 
+## 調整 Jekyll 預設 theme: minima 版面樣式
+```shell
+bundle info --path minima
+```
+可以取得 minima 目前儲存的目錄:  
+```shell
+C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/minima-2.5.2
+```
+專案根目錄中，建立新目錄 _layouts  
+把上面所有的檔案複製到 _layouts 裡面  
+home.html 裡面的 post.title  
+```html
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+```
+改成
+```html
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+          {% if post.title_image %}
+            <img src="{{ post.title_image }}" alt="{{ post.title }}">
+          {% endif %}
+        </h3>
+```
+在要新增圖片的 .markdown 檔案  
+```
+---
+layout: post
+title:  "雪霸國家公園櫻花鉤吻鮭互動導覽程式 2017/07~2018/01"
+date:   2018-01-10 00:00:00 +0800
+categories: jekyll update
+---
+```
+新增 title_image 欄位  
+```
+---
+layout: post
+title:  "雪霸國家公園櫻花鉤吻鮭互動導覽程式 2017/07~2018/01"
+title_image: /image/github.io/salmon.jpg
+date:   2018-01-10 00:00:00 +0800
+categories: jekyll update
+---
+```
 ###### tags: `hackmd`
