@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  chiisen
+show_excerpts: true # 是否顯示摘要
 
 #sass:
 #  quiet_deps: true # 這個配置選項會讓 Jekyll 的 Sass 處理器在處理依賴項（如 minima 主題）時不顯示 @import 警告。
