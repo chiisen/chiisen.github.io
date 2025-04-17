@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "倖存者聯盟 2015/11~2016/10"
+title:  "🔗 倖存者聯盟 2015/11~2016/10"
 title_image: /image/github.io/survivor.jpg
 excerpt: 這是一款以全新末日角度打造的殭屍題材即時戰略手機遊戲，期待引爆全球生存之戰。
 date:   2016-10-06 00:00:00 +0800
