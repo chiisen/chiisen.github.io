@@ -2,6 +2,7 @@
 layout: post
 title:  "唯舞獨尊(臉書版) 2011/1~2012/4"
 title_image: /image/github.io/we_fb.jpeg
+excerpt: 具有多樣的音樂玩法模式，加上社交平台特有的好友互動、趣味分享等元素，讓玩家可以與好友一起聽音樂、玩遊戲。透過獨特的社交聊天功能，還能認識更多玩家一起同樂。
 date:   2012-04-19 00:00:00 +0800
 categories: jekyll update
 ---
