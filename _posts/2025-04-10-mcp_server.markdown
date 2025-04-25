@@ -26,7 +26,3 @@ MCP Server 就像「AI 的 USB 插槽」，讓 AI 能安全地連接外部資料
 [🔗 我的 Github 範例專案: 【ClaudeLocalMCP.js】](https://github.com/chiisen/ClaudeLocalMCP.js)
 
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8qWqWpy5SG0" frameborder="0" allowfullscreen></iframe>
-
----
