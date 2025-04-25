@@ -9,7 +9,7 @@ categories: jekyll update
 
 ## 自己為 Claude 寫本地端 MCP Server (JavaScript版)
 MCP Server 就像「AI 的 USB 插槽」，讓 AI 能安全地連接外部資料或工具。
-舉例：AI 想查電腦檔案或查詢股票價格，MCP Server 就負責幫 AI 取得這些資料或執行操作。
+舉例：AI 查詢指定地區的天氣資訊，MCP Server 就負責幫 AI 取得這些資料或執行操作。
 
 ### AI 有了 MCP（模型上下文協定）後，將產生以下重大影響：
 
