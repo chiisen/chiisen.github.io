@@ -22,7 +22,7 @@ MCP Server 就像「AI 的 USB 插槽」，讓 AI 能安全地連接外部資料
 總結：MCP 讓 AI 從只能「說」進化到能「做」，大幅擴展應用範圍與價值，推動 AI 進入真正的智能代理（AI Agent）時代  
 
 ### Weather MCP Server
-這是用來給 Claude 查詢指定地區的天氣資訊
+這是用來給 Claude 查詢指定地區的天氣資訊  
 [🔗 我的 Github 範例專案: 【ClaudeLocalMCP.js】](https://github.com/chiisen/ClaudeLocalMCP.js)
 
 ---
