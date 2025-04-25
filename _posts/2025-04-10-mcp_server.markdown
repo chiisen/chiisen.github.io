@@ -22,7 +22,15 @@ MCP Server 就像「AI 的 USB 插槽」，讓 AI 能安全地連接外部資料
 
 ### Weather MCP Server
 這是用來給 Claude 查詢指定地區的天氣資訊  
+
+---
+
 [🔗 我的 Github 範例專案: 【ClaudeLocalMCP.js】](https://github.com/chiisen/ClaudeLocalMCP.js)  
-自己為 Claude 寫本地端 MCP Server (JavaScript版) 很簡單，有手就行😁
+自己為 Claude 寫本地端 MCP Server (JavaScript版) 很簡單，有手就行😁![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+
+---
+
+[🔗 我的 Github 範例專案: 【ClaudeLocalMCP.ts】](https://github.com/chiisen/ClaudeLocalMCP.ts)  
+自己為 Claude 寫本地端 MCP Server (TypeScript版) 很簡單，有手就行😁![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ---
