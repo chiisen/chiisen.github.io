@@ -2,7 +2,7 @@
 layout: post
 title:  "🔗 MS-SQL 變更通知 Discord 機器人"
 title_image: /image/github.io/Alert_Notification.jpg
-excerpt: MS-SQL 變更通知 Discord 機器人。
+excerpt: 最近 DBA 經常性的修改 SP 或函示但是不通知相關人員，為了自立救助，所以寫了機器人，每 10 分鐘做一次比對差異，並且 commit 到本地的 git 目錄，方便查找變更。
 date:   2024-09-14 00:00:00 +0800
 categories: jekyll update
 ---
