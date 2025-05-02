@@ -1,49 +1,70 @@
 # Welcome to Jekyll!
+# 歡迎使用 Jekyll！
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
+# 這個設定檔用於影響整個部落格的設定，通常只需設定一次，很少需要修改。
+# 如果你經常編輯這個檔案，建議使用 Jekyll 的 data files 功能來管理經常變動的資料。
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# 技術上，當你使用 'bundle exec jekyll serve' 時，這個檔案*不會*自動重新載入。
+# 如果你更改了這個檔案，請重新啟動伺服器程序。
 #
 # If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
+# 如果你需要 YAML 語法的幫助，這裡有一些快速參考：
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
 #
 # Site settings
+# 站點設定
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# 這些設定用於個人化你的新網站。在 HTML 檔案中，可以透過 {{ site.title }}、{{ site.email }} 等方式存取。
+# 你也可以自訂變數，並在模板中透過 {{ site.myvariable }} 存取。
 title: 🏡 Sam 的開源作品(持續累積中🏃‍♂️)(Jekyll版)
 email: liawchiisen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   自小因家庭工廠轉型接觸工業電腦，自學多種程式語言。有豐富遊戲開發和專案管理經驗，涉足 VR/AR/MR 開發，也做過系統優化，期待加入貴公司。
+  # 這裡的 >- 表示忽略換行直到 "baseurl:" 行
 baseurl: "" # the subpath of your site, e.g. /blog
+# 網站的子路徑，例如 /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# 網站的主機名稱與協定，例如 http://example.com
 twitter_username: 
 github_username:  chiisen
 show_excerpts: true # 是否顯示摘要
 timezone: Asia/Taipei
+# 時區設定
 
 #sass:
 #  quiet_deps: true # 這個配置選項會讓 Jekyll 的 Sass 處理器在處理依賴項（如 minima 主題）時不顯示 @import 警告。
+#  This option makes Jekyll's Sass processor not show @import warnings when processing dependencies (like the minima theme).
   
 # Build settings
+# 建置設定
 theme: minima 
 
 plugins:
   - jekyll-feed
 
 # Exclude from processing.
+# 排除處理的項目
 # The following items will not be processed, by default.
+# 下列項目預設不會被處理
 # Any item listed under the `exclude:` key here will be automatically added to
 # the internal "default list".
+# 在這裡列在 `exclude:` 下的項目會自動加入內部的「預設清單」。
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
+# 被排除的項目可以透過在 `include:` 清單中明確列出目錄或檔案路徑來處理。
 #
 # exclude:
 #   - .sass-cache/
