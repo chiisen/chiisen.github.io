@@ -202,4 +202,8 @@ date:   2018-01-10 00:00:00 +0800
 categories: jekyll update
 ---
 ```
+新增 youtube 影片連結  
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ddrc-0M5uUs" frameborder="0" allowfullscreen></iframe>
+```
 ###### tags: `hackmd`
