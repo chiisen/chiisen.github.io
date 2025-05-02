@@ -15,7 +15,7 @@ categories: jekyll update
 https://github.com/justinpbarnett/unity-mcp/tree/master
 
 ## Demo 影片
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Wr2QiA7FqcE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wr2QiA7FqcE" frameborder="0" allowfullscreen></iframe>
 
 ## 功能
 - 場景控制: 查看當前場景, 並且生成物件, Component
