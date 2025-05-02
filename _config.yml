@@ -54,6 +54,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+home_post_limit: 5
+
 # Exclude from processing.
 # 排除處理的項目
 # The following items will not be processed, by default.
