@@ -53,8 +53,10 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
-home_post_limit: 5
+paginate: 5 # 每頁顯示 5 篇文章
+paginate_path: "/page:num" # 分頁網址格式
 
 # Exclude from processing.
 # 排除處理的項目

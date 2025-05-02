@@ -9,10 +9,10 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+  {%- if paginator.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts limit:site.home_post_limit -%}
+      {%- for post in paginator.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -30,6 +30,16 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
+
+    <div class="pagination">
+      {%- if paginator.previous_page -%}
+        <a class="pagination-prev" href="{{ paginator.previous_page_path | relative_url }}">&laquo; 上一頁</a>
+      {%- endif -%}
+      <span class="pagination-page">第 {{ paginator.page }} / {{ paginator.total_pages }} 頁</span>
+      {%- if paginator.next_page -%}
+        <a class="pagination-next" href="{{ paginator.next_page_path | relative_url }}">下一頁 &raquo;</a>
+      {%- endif -%}
+    </div>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
