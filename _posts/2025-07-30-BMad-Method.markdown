@@ -3,7 +3,7 @@ layout: post
 title:  "🔗 BMad-Method"
 title_image: /image/github.io/BMAD-MERHOD01.jpg
 excerpt: BMAD，全名是《Breakthrough Method for Agile AI-Driven Development》 (突破性敏捷 AI 驅動開發方法)。
-date:   2025-07-18 00:00:00 +0800
+date:   2025-07-30 00:00:00 +0800
 categories: jekyll update
 ---
 
