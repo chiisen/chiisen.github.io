@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "🔗 AWS: Kiro"
+title_image: /image/github.io/Kiro.png
+excerpt: 試用 Amazon/AWS 團隊打造的 KIRO - AI 整合開發環境工具（IDE）。
+date:   2025-07-18 00:00:00 +0800
+categories: jekyll update
+---
+
+## AWS: Kiro
+試用 Amazon/AWS 團隊打造的 KIRO - AI 整合開發環境工具（IDE）。
+
+---
+
+[🔗 我的 Github 專案: 【KIRO】](https://github.com/chiisen/KIRO)  
+試用 Amazon/AWS 團隊打造的 KIRO - AI 整合開發環境工具（IDE）。
+  
+<!-- Icon 圖片網址可以參考: https://github.com/Ileriayo/markdown-badges -->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
