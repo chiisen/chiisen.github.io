@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🔗 Context Engineering Template 內容工程範本"
-title_image: /image/github.io/3D_Dice.gif
+title_image: /image/github.io/ContextEngineeringTemplate.png
 excerpt: 針對現在流行的 Context Engineering 建立一個 Template 文件範例，幫助我們有系統的解決編程問題。
 date:   2025-07-17 00:00:00 +0800
 categories: jekyll update
