@@ -90,7 +90,7 @@ uv run --python 3.10 .\server.py
 ---
 
 [🔗 我的 Github 範例專案: 【unity-mcp】](https://github.com/chiisen/unity-mcp)  
-利用 Claude 的 MCP 功能，指定 Unity 3D 進行操作
+利用 Claude 的 MCP 功能，指定 Unity 3D 進行操作  
 <!-- Icon 圖片網址可以參考: https://github.com/Ileriayo/markdown-badges -->
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
 
