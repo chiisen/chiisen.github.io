@@ -30,6 +30,7 @@ categories: jekyll update
 [🔗 我的 Github 專案: 【mssql-bot】](https://github.com/chiisen/mssql-bot)  
 1. MS-SQL 語法檢查機器人。  
 2. MS-SQL 變更通知 Discord 機器人。  
+<!-- Icon 圖片網址可以參考: https://github.com/Ileriayo/markdown-badges -->
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---

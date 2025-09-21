@@ -26,6 +26,8 @@ MCP Server 就像「AI 的 USB 插槽」，讓 AI 能安全地連接外部資料
 ---
 
 [🔗 我的 Github 範例專案: 【ClaudeLocalMCP.ts】](https://github.com/chiisen/ClaudeLocalMCP.ts)  
-自己為 Claude 寫本地端 MCP Server (TypeScript版) 很簡單，有手就行😁![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+自己為 Claude 寫本地端 MCP Server (TypeScript版) 很簡單，有手就行😁
+<!-- Icon 圖片網址可以參考: https://github.com/Ileriayo/markdown-badges -->
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ---

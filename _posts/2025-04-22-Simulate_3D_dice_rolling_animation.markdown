@@ -14,6 +14,7 @@ categories: jekyll update
 
 [🔗 我的 Github 專案: 【Web Speed Reader】](https://github.com/chiisen/Simulate_3D_dice_rolling_animation.js)  
 【與朋友討論前端動畫作法DEMO】盡量使用較少的程式碼模擬擲 3D 骰子的動畫演出( JavaScript 版本，附上完整註解說明)  
+<!-- Icon 圖片網址可以參考: https://github.com/Ileriayo/markdown-badges -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
