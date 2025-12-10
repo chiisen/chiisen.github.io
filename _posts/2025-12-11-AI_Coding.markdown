@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🔗 極簡流 AI Coding 心法與協作開發"
-title_image: /image/github.io/ContextEngineeringTemplate.png
+title_image: /image/github.io/AI_Coding.png
 excerpt: 你還在用 AI Coding 框架嗎？高手都在練的 4 個反直覺 AI 協作心法。
 date:   2025-12-11 00:00:00 +0800
 categories: jekyll update
