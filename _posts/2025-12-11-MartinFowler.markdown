@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🔗 AI浪潮下的5個驚人真相：軟體大師 Martin Fowler 給開發者的深刻洞見"
-title_image: /image/github.io/Martin_Fowler.jpg
+title_image: /image/github.io/Martin_Fowler.png
 excerpt: 在AI喧囂中，我們更需傾聽智者的聲音。
 date:   2025-12-11 00:00:00 +0800
 categories: jekyll update
