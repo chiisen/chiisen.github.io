@@ -83,6 +83,6 @@ AI是一個強大的加速器，它可以讓你跑得更快，但方向盤必須
 
   
 <!-- Icon 圖片網址可以參考: https://github.com/Ileriayo/markdown-badges -->
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-%23000000?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 ---

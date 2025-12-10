@@ -87,6 +87,6 @@ TDD 的核心是一個簡單而強大的循環——「紅燈 -> 綠燈 -> 重�
 ---
 
 <!-- Icon 圖片網址可以參考: https://github.com/Ileriayo/markdown-badges -->
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-%23000000?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 ---
