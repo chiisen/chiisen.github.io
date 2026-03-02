@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "✅ Claude Skills：讓 AI 從「說話」進化到「動手做」的擴展能力"
-title_image: /image/github.io/Claude_MCP.gif
 excerpt: 探索 Anthropic Claude 3.5 Sonnet 的工具調用、電腦操作與 MCP 協定，如何賦予 AI 改變真實世界的能力。
 date:   2026-01-13 00:00:00 +0800
 categories: jekyll update
@@ -9,7 +8,7 @@ categories: jekyll update
 
 ## Claude Skills：讓 AI 從「說話」進化到「動手做」的擴展能力
 
-![Claude_MCP](/image/github.io/Claude_MCP.gif)
+
 
 ### 引言：AI 不再只是「聊天機器人」，而是你的「數位專員」
 
