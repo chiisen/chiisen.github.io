@@ -5,3 +5,6 @@ _site
 vendor
 /desktop.ini
 /*.ico
+
+.python-version
+
