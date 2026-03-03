@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "🚀 MiniOC：將 OpenCode 思考引擎裝進你的 Telegram"
+excerpt: 透過 Docker 容器化確保絕對安全，打造最輕巧、易用且專屬於你的 Telegram AI 助手。
+date:   2026-02-22 00:00:00 +0800
+categories: jekyll update
+---
+
+## 🚀 MiniOC：將 OpenCode 思考引擎裝進你的 Telegram
+
+### 引言：在行動端釋放 OpenCode 的思考力
+
+對於開發者來說，OpenCode 是一個強大的搜尋與思考引擎，但傳統上它往往侷限於 Web 介面或 IDE 插件中。**MiniOC (Mini OpenCode)** 的誕生，就是為了打破這個限制——透過將其接入 Telegram，讓你隨時隨地都能在手機上呼叫具備強大邏輯推理能力的 AI 助手。
+
+MiniOC 秉持著「極簡且安全」的設計目標，確保即便是在行動端，也能享有快速、穩定且受保護的互動體驗。
+
+--------------------------------------------------------------------------------
+
+### 💡 專案優勢：為何選擇 MiniOC？
+
+1.  **🛡️ 高安全性**：透過 Docker 容器化部署，將 OpenCode 與執行環境完全隔離。所有的程式碼執行都在沙盒中完成，絕不威脅宿主機的安全。
+2.  **📱 極致便利**：完美結合 Telegram 生態。無論你在捷運上還是咖啡廳，只需打開手機 Telegram，就能進行複雜的邏輯諮詢或程式碼除錯。
+3.  **🔧 易於維護擴充**：核心程式碼精煉 (Mini)，架構平易近人。這不僅降低了運行成本，也讓技術玩家能輕鬆進行二次開發。
+
+--------------------------------------------------------------------------------
+
+### ✨ 核心功能特色
+
+MiniOC 不僅僅是一個轉發器，它內建了多項增強功能：
+
+*   **🤖 強大引擎**：預設支援 OpenCode 與 MiniMax (M2.5) 思考引擎，提供極佳的文本理解與邏輯推理能力。
+*   **💾 對話歷史持久化**：使用 SQLite 資料庫自動記錄歷史對話，確保對話脈絡不丟失。
+*   **🔄 自動復原機制**：內建錯誤處理，針對 Telegram Polling 常見的 409 Conflict 錯誤具備自動重連邏輯，確保服務 24/7 不中斷。
+*   **🔒 單一實例保護**：透過檔案鎖 (File Lock) 技術，防止多個實例同時執行導致的資源競爭。
+
+--------------------------------------------------------------------------------
+
+### 🚀 快速開始：三步啟動你的助理
+
+MiniOC 提供了極簡的安裝路徑：
+
+1.  **📥 安裝依賴**：`npm install`
+2.  **⚙️ 設定環境變數**：複製 `.env.example` 為 `.env` 並填入你的 `TELEGRAM_BOT_TOKEN` 與 `MINIOC_API_KEY`。
+3.  **🏁 啟動服務**：使用 `npm run dev` 進行開發測試，或透過 `docker compose up -d` 實現一鍵生產部署。
+
+--------------------------------------------------------------------------------
+
+### 結語：你的隨身 AI 智囊團
+
+MiniOC 證明了「強大」不一定要「臃腫」。透過精巧的設計與現有的雲端 API，我們可以在手機裡塞進一個具備頂尖思考能力的 AI 助手。對於需要頻繁在行動端進行技術決策或快速查詢的開發者來說，這就是最完美的「第二大腦」。
+
+立刻造訪 [chiisen/MiniOC](https://github.com/chiisen/MiniOC) 打造你的專屬行動 AI 吧！🤖✨
+
+---
+
+<!-- Badges -->
+![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-chiisen%2FMiniOC-%23181717?style=for-the-badge&logo=github&logoColor=white)
+
+---

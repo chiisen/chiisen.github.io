@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "🤖 mini_bot：打造你的極簡個人 AI Agent 助理"
+excerpt: 基於 LiteLLM 支援多種 LLM Provider，實現具備 Session 持久化、長期記憶與基本工具調用能力的最小可執行 AI Agent。
+date:   2026-02-21 00:00:00 +0800
+categories: jekyll update
+---
+
+## 🤖 mini_bot：打造你的極簡個人 AI Agent 助理
+
+
+### 引言：在複雜的 AI 框架中回歸極簡
+
+當前的 AI 開發領域充斥著 LangChain、AutoGPT 等龐大的框架，雖然功能強大，但學習曲線與運行成本也相對較高。在這背景下，**mini_bot** 誕生了。它的目標非常明確：建立一個「最小可執行（MVP）」的 Personal AI Agent。
+
+基於 LiteLLM，mini_bot 不僅能輕鬆切換不同的 LLM Provider（如 OpenAI, Anthropic, Gemini），更內建了對於個人助理至關重要的「Session 持久化」與「長期記憶」功能。
+
+--------------------------------------------------------------------------------
+
+### 🌟 核心特色：麻雀雖小，五臟俱全
+
+儘管標榜「極簡」，mini_bot 具備了打造專業 Agent 的關鍵要素：
+
+1.  **🤖 CLI 與 Telegram 雙介面**：提供 `minibot agent` 命令行互動與 `minibot telegram` 機器人模式。
+2.  **💾 Session 持久化**：對話紀錄以 JSONL 格式自動儲存，隨時接續先前的討論。
+3.  **🧠 長期記憶 (MEMORY.md)**：透過 `MEMORY.md` 檔案管理關鍵資訊，讓 Agent 真正記住你的偏好。
+4.  **🔧 基本工具調用**：具備讀取、寫入檔案與列出目錄的基礎能力，解決 AI 無法操作本地文件的痛點。
+5.  **📡 支援多種 Provider**：透過 LiteLLM，你可以自由切換 DeepSeek, Anthropic, Gemini, 或 OpenAI。
+
+--------------------------------------------------------------------------------
+
+### 🚀 快速上手：一分鐘啟動你的 Bot
+
+mini_bot 的設計初衷就是「開箱即用」。以下是在 Windows (PowerShell 7) 環境下的準備步驟：
+
+1.  **⚙️ 安裝環境**：
+    *   確保系統已安裝 Python 3.10+。
+    *   使用 `pip install -r requirements.txt` 安裝依賴。
+2.  **📝 配置設定**：
+    *   在 `~/.minibot/config.json` 中設定你的 API Key。
+3.  **🔥 開始對話**：
+    *   執行 `minibot agent` 開啟終端機對話。
+
+--------------------------------------------------------------------------------
+
+### 📊 功能總覽與展望
+
+目前 mini_bot 已實現了多項核心功能：
+*   **CLI 互動聊天**：支援 `-m` 參數指定模型。
+*   **檔案操作工具**：`read_file`, `write_file`, `list_dir`。
+*   **Session 管理**：完整的 `HISTORY.md` 追蹤。
+*   **系統狀態檢查**：透過 `minibot status` 掌握目前配置。
+
+未來計畫擴展 **網頁搜索 (web_search)** 與 **網頁內容抓取 (web_fetch)** 等延伸能力。
+
+--------------------------------------------------------------------------------
+
+### 結語：從 mini_bot 開始你的 AI 之路
+
+mini_bot 不僅是一個工具，更是一個「概念證明」。它向我們展示了，即使不依賴複雜的大型框架，我們依然能用極簡的程式碼構建出一個實用的、具備記憶與行動能力的 AI 助理。
+
+如果你正在尋找一個輕量、透明且易於擴充的 AI Agent 起點，[chiisen/mini_bot](https://github.com/chiisen/mini_bot) 就是你的最佳選擇。
+
+---
+
+<!-- Badges -->
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-Supported-green?style=for-the-badge&logo=ai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-chiisen%2Fmini__bot-%23181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
