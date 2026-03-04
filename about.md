@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 關於 Sam
+title: 關於我
 permalink: /about/
 ---
 
