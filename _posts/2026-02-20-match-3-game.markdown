@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "🐾 波妞消消樂：以可愛貓咪波弟為主題的療癒系三消遊戲"
+title_image: /image/github.io/match-3-game.png
 excerpt: 結合可愛貓咪波弟與波妞的主題三消益智遊戲。採用 HTML5 Canvas 渲染技術，支援雙模式挑戰與動態影片慶祝，享受極致流暢的消除快感。
 date:   2026-02-20 00:00:00 +0800
 categories: jekyll update
 ---
 
 ## 🐾 波妞消消樂 (波弟與波妞的冒險遊戲) 🐱✨
+![match-3-game](/image/github.io/match-3-game.png)
 
 ### 引言：在指尖感受貓咪的萌力與連鎖消除的快感
 
