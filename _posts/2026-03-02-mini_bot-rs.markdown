@@ -2,7 +2,7 @@
 layout: post
 title:  "🦀 MiniBot.rs：使用 Rust 打造的高效能 AI Agent 框架"
 excerpt: 體驗極致的效能與安全。MiniBot.rs 具備 < 5MB 的啟動記憶體與 < 10ms 的冷啟動速度，是為未來邊緣運算設計的 AI 助理。
-date:   2026-02-22 00:00:00 +0800
+date:   2026-03-02 00:00:00 +0800
 categories: jekyll update
 ---
 
