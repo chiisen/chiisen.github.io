@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "🎮 俄羅斯方塊：跨越時代的經典網頁重生版"
+title_image: /image/github.io/Tetris.png
 excerpt: 完美支援電腦與手機遊玩的經典俄羅斯方塊。基於 HTML5 Canvas 與 Web Audio API 打造，內建智慧 AI 代玩模式與動態難度系統。
 date:   2026-02-26 00:00:00 +0800
 categories: jekyll update
 ---
 
 ## 🎮 俄羅斯方塊 (Tetris)：經典與現代的完美融合
+![Tetris](/image/github.io/Tetris.png)
 
 ### 引言：在瀏覽器中重溫方塊消除的快感
 
