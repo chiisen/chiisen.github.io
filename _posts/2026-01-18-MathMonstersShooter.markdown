@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "🚀 數學怪物射手：讓孩子在霓虹太空中練習運算"
+title_image: /image/github.io/MathMonstersShooter.png
 excerpt: 結合數學教育與射擊遊戲的瀏覽器應用程式。透過 Vue 3 與 HTML5 Canvas 打造，提供國小低年級學生一個充滿趣味的計算練習環境。
 date:   2026-01-18 00:00:00 +0800
 categories: jekyll update
 ---
 
 ## 🚀 數學怪物射手 (Math Monsters Shooter)
+![MathMonstersShooter](/image/github.io/MathMonstersShooter.png)
 
 ### 引言：當數學練習變成一場太空冒險
 
