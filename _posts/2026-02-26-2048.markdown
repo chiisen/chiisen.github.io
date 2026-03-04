@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "🎮 2048：經典數字拼圖遊戲的極致網頁實現"
+title_image: /image/github.io/2048.png
 excerpt: 經典 2048 遊戲的現代網頁版。支援電腦鍵盤與手機觸控，具備流暢動畫、合併特效與慶祝花絮，提供最純粹的數字合成體驗。
 date:   2026-02-26 00:00:00 +0800
 categories: jekyll update
 ---
 
 ## 🎮 2048 網頁版：滑動、合併、挑戰極限
+![2048](/image/github.io/2048.png)
 
 ### 引言：簡單數字，無窮樂趣
 
