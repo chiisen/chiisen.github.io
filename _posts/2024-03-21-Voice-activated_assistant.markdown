@@ -8,6 +8,7 @@ categories: jekyll update
 ---
 
 ## ✅ 試做一個【語音助理】 (Voice-activated Assistant)
+![Voice-activated_assistant](/image/github.io/voice-activated-assistant.png)
 ![Voice-activated_assistant](/image/github.io/Voice-activated_assistant.gif)
 
 ### 引言：讓電腦「聽懂」且「回應」您的每一句話
