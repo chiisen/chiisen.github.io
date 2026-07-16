@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "✅ 試做一個【語音助理】：結合 Python 與 Qwen3 的智慧互動體驗"
-title_image: /image/github.io/voice-activated-assistant-py.png
+title_image: /image/github.io/voice-activated-assistant.png
 excerpt: 結合 Python、Qwen3-ASR 與 Qwen3-TTS 技術，打造高效能、隱私優先且具備 AI 對話能力的個人化語音助理。實現流暢的語音指令識別與自動化回應。
 date:   2026-03-06 00:00:00 +0800
 categories: jekyll update
