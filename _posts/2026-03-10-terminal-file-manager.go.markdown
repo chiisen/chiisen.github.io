@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "✅ 試做一個【終端機檔案管理器】：Go 語言實現的高效與直覺 (gofm)"
-title_image: /image/github.io/Terminal_File_Manager.png
+title_image: /image/github.io/Terminal_File_Manager.gif
 excerpt: 基於 Go 語言與 Bubble Tea 框架打造的終端機檔案管理器 gofm。具備極速導航、Fuzzy 搜尋、Git 整合與檔案預覽功能，讓終端機操作比 GUI 更快、比 ls 更直覺。
 date:   2026-03-10 00:00:00 +0800
 categories: jekyll update
