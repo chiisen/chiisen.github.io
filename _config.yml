@@ -47,6 +47,13 @@ timezone: Asia/Taipei
 #  quiet_deps: true # 這個配置選項會讓 Jekyll 的 Sass 處理器在處理依賴項（如 minima 主題）時不顯示 @import 警告。
 #  This option makes Jekyll's Sass processor not show @import warnings when processing dependencies (like the minima theme).
   
+# Navigation settings
+# 導覽列設定
+# Specify which pages appear in the navigation menu.
+# 指定哪些頁面顯示在導覽列中（預設僅顯示「關於我」）。
+header_pages:
+  - about.md # 僅在頂部導覽列顯示「關於我」
+
 # Build settings
 # 建置設定
 theme: minima 
@@ -70,7 +77,11 @@ paginate_path: "/page:num" # 分頁網址格式
 # their entries' file path in the `include:` list.
 # 被排除的項目可以透過在 `include:` 清單中明確列出目錄或檔案路徑來處理。
 #
-# exclude:
+exclude:
+  - AGENTS.md                  # AI Agent 協作指南（內部規範，避免被 Jekyll 編譯為公開網頁）
+  - AI_GITHUB_PROJECT_GUIDE.md # GitHub Projects v2 工作流指南（內部規範）
+  - setup_git_sync.ps1         # 本地 Git 同步工具腳本（不需要發佈至網站）
+  - .coderabbit.yaml           # CodeRabbit 審查工具設定檔
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
