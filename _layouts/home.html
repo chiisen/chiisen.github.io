@@ -21,11 +21,6 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {% if post.title_image %}
-          <a class="post-thumb" href="{{ post.url | relative_url }}">
-            <img src="{{ post.title_image }}" alt="" loading="lazy" width="800" height="420">
-          </a>
-        {% endif %}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

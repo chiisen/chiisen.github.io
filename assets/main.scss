@@ -53,20 +53,6 @@ $grey-color: #5c6670;
   border-bottom: 0;
 }
 
-.post-thumb {
-  display: block;
-  margin: 0.6rem 0 0.8rem;
-}
-
-.post-thumb img {
-  display: block;
-  width: 100%;
-  max-height: 220px;
-  object-fit: cover;
-  border-radius: 8px;
-  background: #efeae3;
-}
-
 .pagination {
   display: flex;
   gap: 1rem;
