@@ -4,8 +4,50 @@
 @import "minima";
 
 .site-version {
-  font-size: 0.55em;
+  display: inline-block;
+  margin-left: 0.35rem;
+  padding: 0.1rem 0.45rem;
+  border: 1px solid #d0d0d0;
+  border-radius: 999px;
+  font-size: 0.62rem;
+  line-height: 1.4;
   letter-spacing: 0;
-  font-weight: 400;
-  color: #828282;
+  font-weight: 600;
+  vertical-align: 0.35em;
+  color: #555;
+}
+
+.post-list > li {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #eee;
+}
+
+.post-list > li:last-child {
+  border-bottom: 0;
+}
+
+.post-thumb {
+  display: block;
+  margin: 0.6rem 0 0.8rem;
+}
+
+.post-thumb img {
+  display: block;
+  width: 100%;
+  max-height: 220px;
+  object-fit: cover;
+  border-radius: 8px;
+  background: #f4f4f4;
+}
+
+.pagination {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.pagination a {
+  text-decoration: none;
 }

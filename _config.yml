@@ -45,6 +45,8 @@ twitter_username:
 github_username:  chiisen
 show_excerpts: true # 是否顯示摘要
 timezone: Asia/Taipei
+minima:
+  date_format: "%Y-%m-%d"
 # 時區設定
 
 #sass:
