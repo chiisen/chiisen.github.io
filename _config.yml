@@ -28,16 +28,17 @@
 # in the templates via {{ site.myvariable }}.
 # 這些設定用於個人化你的新網站。在 HTML 檔案中，可以透過 {{ site.title }}、{{ site.email }} 等方式存取。
 # 你也可以自訂變數，並在模板中透過 {{ site.myvariable }} 存取。
-# 括號裡的數字是本站內容流水號，不是 Jekyll 的版本。
+# 站點流水號 1.0.15。這是本站內容版本，不是 Jekyll 版本。
 # Jekyll 版本寫在 Gemfile（目前 jekyll ~> 4.4.1）。
-title: 🏡 開源作品(持續累積中🏃‍♂️)(GitHub Pages + Jekyll，站點流水號 1.0.15)
+title: 🏡 開源作品
 email: liawchiisen@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+# >- 會把換行折成空白，直到縮排結束。註解要寫在這個區塊外面，寫在裡面會變成說明文字。
+description: >-
   自小因家庭工廠轉型接觸工業電腦，自學多種程式語言。有豐富遊戲開發和專案管理經驗，涉足 VR/AR/MR 開發，也做過系統優化，期待加入貴公司。
-  # 這裡的 >- 表示忽略換行直到 "baseurl:" 行
 baseurl: "" # the subpath of your site, e.g. /blog
 # 網站的子路徑，例如 /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chiisen.github.io" # the base hostname & protocol for your site
+lang: zh-TW
 # 網站的主機名稱與協定，例如 http://example.com
 twitter_username: 
 github_username:  chiisen
