@@ -1,26 +1,32 @@
 ---
 ---
 
+$background-color: #f6f3ee;
+$text-color: #1c2430;
+$brand-color: #0f6e6e;
+$grey-color: #5c6670;
+
 @import "minima";
 
 .site-version {
   display: inline-block;
   margin-left: 0.35rem;
   padding: 0.1rem 0.45rem;
-  border: 1px solid #d0d0d0;
+  border: 1px solid #0f6e6e;
   border-radius: 999px;
   font-size: 0.62rem;
   line-height: 1.4;
   letter-spacing: 0;
   font-weight: 600;
   vertical-align: 0.35em;
-  color: #555;
+  color: #0f6e6e;
+  background: #e7f3f3;
 }
 
 .post-list > li {
   margin-bottom: 1.75rem;
   padding-bottom: 1.25rem;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #e4ddd4;
 }
 
 .post-list > li:last-child {
@@ -38,7 +44,7 @@
   max-height: 220px;
   object-fit: cover;
   border-radius: 8px;
-  background: #f4f4f4;
+  background: #efeae3;
 }
 
 .pagination {
