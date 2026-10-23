@@ -53,6 +53,13 @@ $grey-color: #5c6670;
   border-bottom: 0;
 }
 
+.post-thumb img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
 .pagination {
   display: flex;
   gap: 1rem;
