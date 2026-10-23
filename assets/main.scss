@@ -1,26 +1,46 @@
 ---
 ---
 
-$background-color: #f6f3ee;
+$background-color: #efe6d6;
 $text-color: #1c2430;
-$brand-color: #0f6e6e;
+$brand-color: #0b5f63;
 $grey-color: #5c6670;
 
 @import "minima";
+
+.site-header {
+  background: #0b3a3c;
+  border-top-color: #e2a84b;
+  border-bottom-color: #0b3a3c;
+}
+
+.site-title,
+.site-title:visited,
+.site-nav .page-link {
+  color: #f6f3ee;
+}
+
+.site-nav .page-link:hover {
+  color: #e2a84b;
+}
+
+.site-nav .menu-icon > svg {
+  fill: #f6f3ee;
+}
 
 .site-version {
   display: inline-block;
   margin-left: 0.35rem;
   padding: 0.1rem 0.45rem;
-  border: 1px solid #0f6e6e;
+  border: 1px solid #e2a84b;
   border-radius: 999px;
   font-size: 0.62rem;
   line-height: 1.4;
   letter-spacing: 0;
   font-weight: 600;
   vertical-align: 0.35em;
-  color: #0f6e6e;
-  background: #e7f3f3;
+  color: #1c2430;
+  background: #e2a84b;
 }
 
 .post-list > li {
